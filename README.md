@@ -4,4 +4,4 @@ PROYECTO # 3-MAQUEDATO_RESPONSIVO CON HTML5 Y CSS3, GIT Y GITHUB.
 ### MATERIA IHC-1050
 
 ## Portada:
-![](miweb.png)
+![](imagen/miweb.png)
